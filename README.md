@@ -4,31 +4,31 @@ English 1st,Japanese 2nd.
 
 # Prerequisites
 
---Construction of environment for pyenv and pipenv
---Pyenv has python3.7 installed and ready to use
+- Construction of environment for pyenv and pipenv
+- Pyenv has python3.7 installed and ready to use
 
 # Environment
 
---When pipenv install Flask is executed under the root directory, the related modules described in pipfile are installed.
+- When pipenv install Flask is executed under the root directory, the related modules described in pipfile are installed.
 
 # Execution method
 
---Start virtual environment with pipenv shell
---Go to each directory and run python run.py or python hello.py
---Access to the right (Needless to say, Chrome is recommended.) Http://127.0.0.1:8888/
+- Start virtual environment with pipenv shell
+- Go to each directory and run python run.py or python hello.py
+- Access to the right (Needless to say, Chrome is recommended.) Http://127.0.0.1:8888/
 
 # Description of each folder
 
---basicauth
-   --A module that requires basic authentication
---hello
-   --Response Hello World
---hello2
-   --Render HTML using Template engine and display on screen (extend hello)
---hello3
-   --Slightly rich screen display using css and jquery using static files (extending hello2)
---json
-   --Response the json value
+- basicauth
+   - A module that requires basic authentication
+- hello
+   - Response Hello World
+- hello2
+   - Render HTML using Template engine and display on screen (extend hello)
+- hello3
+   - Slightly rich screen display using css and jquery using static files (extending hello2)
+- json
+   - Response the json value
 
 # 前提条件
 
