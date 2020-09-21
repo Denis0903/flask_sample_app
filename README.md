@@ -12,3 +12,4 @@
 # 実行方法
 
 - pipenv shell で仮想環境を起動
+- 各ディレクトリに移動し、python run.pyあるいはpython hello.pyを実施する
