@@ -9,12 +9,12 @@ English 1st,Japanese 2nd.
 
 # Environment
 
-- When pipenv install Flask is executed under the root directory, the related modules described in pipfile are installed.
+- When "pipenv install Flask" is executed under the root directory, the related modules described in pipfile are installed.
 
 # Execution method
 
-- Start virtual environment with pipenv shell
-- Go to each directory and run python run.py or python hello.py
+- Start virtual environment with "pipenv shell"
+- Go to each directory and run "python run.py" or "python hello.py"
 - Access to the right (Needless to say, Chrome is recommended.) Http://127.0.0.1:8888/
 
 # Description of each folder
